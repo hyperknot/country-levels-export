@@ -1,0 +1,17 @@
+# ISO 3166-2 list: AM
+
+
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --: 
+Aragatsotn Province | AM-AG | [GeoJSON](../../geojson/q8/iso2/AM/AM-AG.geojson) | [OSM](https://www.openstreetmap.org/relation/3917110) | [Wikidata](https://www.wikidata.org/wiki/Q17915) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B1%D6%80%D5%A1%D5%A3%D5%A1%D5%AE%D5%B8%D5%BF%D5%B6%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
+Ararat Province | AM-AR | [GeoJSON](../../geojson/q8/iso2/AM/AM-AR.geojson) | [OSM](https://www.openstreetmap.org/relation/364083) | [Wikidata](https://www.wikidata.org/wiki/Q199880) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B1%D6%80%D5%A1%D6%80%D5%A1%D5%BF%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 260,367
+Armavir Province | AM-AV | [GeoJSON](../../geojson/q8/iso2/AM/AM-AV.geojson) | [OSM](https://www.openstreetmap.org/relation/364086) | [Wikidata](https://www.wikidata.org/wiki/Q201147) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B1%D6%80%D5%B4%D5%A1%D5%BE%D5%AB%D6%80%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
+Gegharkunik Province | AM-GR | [GeoJSON](../../geojson/q8/iso2/AM/AM-GR.geojson) | [OSM](https://www.openstreetmap.org/relation/364080) | [Wikidata](https://www.wikidata.org/wiki/Q199905) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B3%D5%A5%D5%B2%D5%A1%D6%80%D6%84%D5%B8%D6%82%D5%B6%D5%AB%D6%84%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 235,075
+Kotayk Province | AM-KT | [GeoJSON](../../geojson/q8/iso2/AM/AM-KT.geojson) | [OSM](https://www.openstreetmap.org/relation/364084) | [Wikidata](https://www.wikidata.org/wiki/Q4511) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%BF%D5%B8%D5%BF%D5%A1%D5%B5%D6%84%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
+Lori Province | AM-LO | [GeoJSON](../../geojson/q8/iso2/AM/AM-LO.geojson) | [OSM](https://www.openstreetmap.org/relation/364078) | [Wikidata](https://www.wikidata.org/wiki/Q200350) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%BC%D5%B8%D5%BC%D5%B8%D6%82%20%D5%B4%D5%A1%D6%80%D5%A6) | 392,300
+Shirak Province | AM-SH | [GeoJSON](../../geojson/q8/iso2/AM/AM-SH.geojson) | [OSM](https://www.openstreetmap.org/relation/364077) | [Wikidata](https://www.wikidata.org/wiki/Q201063) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D5%87%D5%AB%D6%80%D5%A1%D5%AF%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
+Syunik Province | AM-SU | [GeoJSON](../../geojson/q8/iso2/AM/AM-SU.geojson) | [OSM](https://www.openstreetmap.org/relation/364082) | [Wikidata](https://www.wikidata.org/wiki/Q2523428) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%A1%D1%8E%D0%BD%D0%B8%D0%BA%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 
+Tavush Province | AM-TV | [GeoJSON](../../geojson/q8/iso2/AM/AM-TV.geojson) | [OSM](https://www.openstreetmap.org/relation/364079) | [Wikidata](https://www.wikidata.org/wiki/Q201140) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D5%8F%D5%A1%D5%BE%D5%B8%D6%82%D5%B7%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
+Vayots Dzor Province | AM-VD | [GeoJSON](../../geojson/q8/iso2/AM/AM-VD.geojson) | [OSM](https://www.openstreetmap.org/relation/364081) | [Wikidata](https://www.wikidata.org/wiki/Q200124) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D5%8E%D5%A1%D5%B5%D5%B8%D6%81%20%D5%B1%D5%B8%D6%80%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
+Yerevan | AM-ER | [GeoJSON](../../geojson/q8/iso2/AM/AM-ER.geojson) | [OSM](https://www.openstreetmap.org/relation/364087) | [Wikidata](https://www.wikidata.org/wiki/Q1953) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AYerevan) | 1,075,800
