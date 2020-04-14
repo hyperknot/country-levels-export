@@ -30,7 +30,8 @@ Marsabit | KE-25 | [GeoJSON](../../geojson/q8/iso2/KE/KE-25.geojson) | [OSM](htt
 Meru | KE-26 | [GeoJSON](../../geojson/q8/iso2/KE/KE-26.geojson) | [OSM](https://www.openstreetmap.org/relation/3495553) | [Wikidata](https://www.wikidata.org/wiki/Q15045704) |  | 
 Migori | KE-27 | [GeoJSON](../../geojson/q8/iso2/KE/KE-27.geojson) | [OSM](https://www.openstreetmap.org/relation/3486018) | [Wikidata](https://www.wikidata.org/wiki/Q429955) |  | 
 Mombasa | KE-28 | [GeoJSON](../../geojson/q8/iso2/KE/KE-28.geojson) | [OSM](https://www.openstreetmap.org/relation/3495554) | [Wikidata](https://www.wikidata.org/wiki/Q1112885) |  | 
-Murang`a | KE-29 | [GeoJSON](../../geojson/q8/iso2/KE/KE-29.geojson) | [OSM](https://www.openstreetmap.org/relation/3977580) | [Wikidata](https://www.wikidata.org/wiki/Q1781723) |  | 
+Murang`a | KE-29 | [GeoJSON](../../geojson/q8/iso2/KE/KE-29.geojson) | [OSM](https://www.openstreetmap.org/relation/3977580) | [Wikidata](https://www.wikidata.org/wiki/Q1781723) |  |
+Nairobi City | KE-30 | [GeoJSON](../../geojson/q8/iso2/KE/KE-30.geojson) | [OSM](https://www.openstreetmap.org/relation/9721587) | [Wikidata](https://www.wikidata.org/wiki/Q3335223) |  | 
 Nakuru | KE-31 | [GeoJSON](../../geojson/q8/iso2/KE/KE-31.geojson) | [OSM](https://www.openstreetmap.org/relation/3486019) | [Wikidata](https://www.wikidata.org/wiki/Q1852202) |  | 
 Nandi | KE-32 | [GeoJSON](../../geojson/q8/iso2/KE/KE-32.geojson) | [OSM](https://www.openstreetmap.org/relation/3495556) | [Wikidata](https://www.wikidata.org/wiki/Q1964569) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ANandi%20County) | 
 Narok | KE-33 | [GeoJSON](../../geojson/q8/iso2/KE/KE-33.geojson) | [OSM](https://www.openstreetmap.org/relation/3338145) | [Wikidata](https://www.wikidata.org/wiki/Q1852220) |  | 
