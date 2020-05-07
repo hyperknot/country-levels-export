@@ -1,0 +1,15 @@
+# ISO 3166-2 list: KG
+
+
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --: 
+Batken Region | KG-B | [GeoJSON](../../geojson/high/iso2/KG/KG-B.geojson) | [OSM](https://www.openstreetmap.org/relation/178019) | [Wikidata](https://www.wikidata.org/wiki/Q487631) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%91%D0%B0%D1%82%D0%BA%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 400,400
+Bishkek | KG-GB | [GeoJSON](../../geojson/high/iso2/KG/KG-GB.geojson) | [OSM](https://www.openstreetmap.org/relation/8493930) | [Wikidata](https://www.wikidata.org/wiki/Q9361) | [Wikipedia](http://en.wikipedia.org/wiki/ky%3A%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA) | 1,027,200
+Chuy Region | KG-C | [GeoJSON](../../geojson/high/iso2/KG/KG-C.geojson) | [OSM](https://www.openstreetmap.org/relation/178026) | [Wikidata](https://www.wikidata.org/wiki/Q486370) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%A7%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 818,000
+City of Osh | KG-GO | [GeoJSON](../../geojson/high/iso2/KG/KG-GO.geojson) | [OSM](https://www.openstreetmap.org/relation/8496351) | [Wikidata](https://www.wikidata.org/wiki/Q47282) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AOsh) | 251,000
+Issyk-Kul Region | KG-Y | [GeoJSON](../../geojson/high/iso2/KG/KG-Y.geojson) | [OSM](https://www.openstreetmap.org/relation/178025) | [Wikidata](https://www.wikidata.org/wiki/Q487413) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 450,700
+Jalal-Abad Region | KG-J | [GeoJSON](../../geojson/high/iso2/KG/KG-J.geojson) | [OSM](https://www.openstreetmap.org/relation/178024) | [Wikidata](https://www.wikidata.org/wiki/Q487640) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%94%D0%B6%D0%B0%D0%BB%D0%B0%D0%BB-%D0%90%D0%B1%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 962,200
+Naryn Region | KG-N | [GeoJSON](../../geojson/high/iso2/KG/KG-N.geojson) | [OSM](https://www.openstreetmap.org/relation/1251542) | [Wikidata](https://www.wikidata.org/wiki/Q486375) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%9D%D0%B0%D1%80%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 269,700
+Osh Region | KG-O | [GeoJSON](../../geojson/high/iso2/KG/KG-O.geojson) | [OSM](https://www.openstreetmap.org/relation/178020) | [Wikidata](https://www.wikidata.org/wiki/Q231987) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%9E%D1%88%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 1,299,500
+Talas Region | KG-T | [GeoJSON](../../geojson/high/iso2/KG/KG-T.geojson) | [OSM](https://www.openstreetmap.org/relation/178023) | [Wikidata](https://www.wikidata.org/wiki/Q109838) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%A2%D0%B0%D0%BB%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 216,100

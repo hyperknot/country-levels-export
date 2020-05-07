@@ -1,0 +1,17 @@
+# ISO 3166-2 list: OM
+
+
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --: 
+Ad Dakhiliyah | OM-DA | [GeoJSON](../../geojson/high/iso2/OM/OM-DA.geojson) | [OSM](https://www.openstreetmap.org/relation/3781241) | [Wikidata](https://www.wikidata.org/wiki/Q792550) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 
+Ad Dhahirah | OM-ZA | [GeoJSON](../../geojson/high/iso2/OM/OM-ZA.geojson) | [OSM](https://www.openstreetmap.org/relation/3781242) | [Wikidata](https://www.wikidata.org/wiki/Q1468596) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1%D8%A9%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 
+Al Batinah North | OM-BS | [GeoJSON](../../geojson/high/iso2/OM/OM-BS.geojson) | [OSM](https://www.openstreetmap.org/relation/3781240) | [Wikidata](https://www.wikidata.org/wiki/Q4703564) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%B4%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 
+Al Batinah South | OM-BJ | [GeoJSON](../../geojson/high/iso2/OM/OM-BJ.geojson) | [OSM](https://www.openstreetmap.org/relation/3994012) | [Wikidata](https://www.wikidata.org/wiki/Q4703565) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%20%D8%AC%D9%86%D9%88%D8%A8%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D8%A9) | 
+Al Buraymi | OM-BU | [GeoJSON](../../geojson/high/iso2/OM/OM-BU.geojson) | [OSM](https://www.openstreetmap.org/relation/3781313) | [Wikidata](https://www.wikidata.org/wiki/Q852039) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 
+Al Wusta | OM-WU | [GeoJSON](../../geojson/high/iso2/OM/OM-WU.geojson) | [OSM](https://www.openstreetmap.org/relation/3781238) | [Wikidata](https://www.wikidata.org/wiki/Q958518) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%20%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89%20%28%D8%B9%D9%85%D8%A7%D9%86%29) | 
+Ash Sharqiyah North | OM-SS | [GeoJSON](../../geojson/high/iso2/OM/OM-SS.geojson) | [OSM](https://www.openstreetmap.org/relation/10169425) | [Wikidata](https://www.wikidata.org/wiki/Q4501876) |  | 
+Ash Sharqiyah South | OM-SJ | [GeoJSON](../../geojson/high/iso2/OM/OM-SJ.geojson) | [OSM](https://www.openstreetmap.org/relation/10169426) | [Wikidata](https://www.wikidata.org/wiki/Q4501894) |  | 
+Dhofar | OM-ZU | [GeoJSON](../../geojson/high/iso2/OM/OM-ZU.geojson) | [OSM](https://www.openstreetmap.org/relation/3781314) | [Wikidata](https://www.wikidata.org/wiki/Q1207752) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%B8%D9%81%D8%A7%D8%B1%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 458,734
+Musandam | OM-MU | [GeoJSON](../../geojson/high/iso2/OM/OM-MU.geojson) | [OSM](https://www.openstreetmap.org/relation/3781315) | [Wikidata](https://www.wikidata.org/wiki/Q372144) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%B3%D9%86%D8%AF%D9%85%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 31,425
+Muscat | OM-MA | [GeoJSON](../../geojson/high/iso2/OM/OM-MA.geojson) | [OSM](https://www.openstreetmap.org/relation/3781239) | [Wikidata](https://www.wikidata.org/wiki/Q544762) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%B3%D9%82%D8%B7%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 1,288,330
